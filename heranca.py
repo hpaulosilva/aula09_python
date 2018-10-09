@@ -31,3 +31,7 @@ class Pato(Animal):
 lista = [Cachorro(20,"Preto"),Gato(15,"branco"),Pato(10,"vermelha")]
 for animal in lista:
     print(animal.fala())
+
+'''orientação a Obejetos
+Aula 09 LP2
+'''
